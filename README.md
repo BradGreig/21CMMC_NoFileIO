@@ -1,6 +1,10 @@
 # 21CMMC_NoFileIO
 
-*** Now outdated as it reflects the old 21CMMC (new version at https://github.com/BradGreig/21CMMC). However, still relevant for reference on how to avoid File I/O ***
+****************** 
+
+Now outdated as it reflects the old 21CMMC (new version at https://github.com/BradGreig/21CMMC). However, still relevant for reference on how to avoid File I/O 
+
+******************
 
 A cleaner (but slower) version of 21CMMC. Please go here (https://github.com/BradGreig/21CMMC) for the easier to use, faster, more supported version 
 
